@@ -4,7 +4,7 @@ A Finder toolbar icon to open current selected file/folder with VS Code.
 ![](/demo.gif)
 
 ## How to use?
-- Download [the zip file](https://github.com/hamxiaoz/open-folder-with-sublime/raw/master/Open%20With%20Sublime.app.zip)
+- Download [the zip file](https://github.com/hamxiaoz/open-folder-with-vs-code/raw/master/Open%20in%20VS%20Code.app.zip)
 - Unzip to Applications folder (or any folder that you won't mistakenly delete the app)
 - Right-click to open to pass the Mac security check
 - Hold `Option+CMD` and drag the application to toolbar
