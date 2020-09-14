@@ -55,3 +55,14 @@ end subl
 
 ## Looking the same thing for Sublime? 
 Please see this repo [open-folder-with-sublime](https://github.com/hamxiaoz/open-folder-with-sublime)
+
+## Credits
+
+Thanks for the following github users for feedback & suggestion:
+
+- [@d0972058277](https://github.com/d0972058277)
+- [@ksmarty](https://github.com/ksmarty)
+- [@aravind-murthy](https://github.com/aravind-murthy)
+
+For icons, you can find them here:
+- https://icons8.com/icons/set/visual-studio-code
