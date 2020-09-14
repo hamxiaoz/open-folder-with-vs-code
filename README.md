@@ -44,7 +44,7 @@ on open (theList)
 	subl(theList)
 end open
 
--- open in Sublime Text
+-- open in Visual Studio Code
 on subl(listOfAliases)
 	tell application "Visual Studio Code"
 		activate
