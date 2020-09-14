@@ -7,6 +7,11 @@ A Finder toolbar icon to open current selected file/folder with VS Code.
 - Download [the zip file](https://github.com/hamxiaoz/open-folder-with-vs-code/raw/master/Open%20in%20VS%20Code.app.zip)
 - Unzip to Applications folder (or any folder that you won't mistakenly delete the app)
 - Right-click to open to pass the Mac security check
+- **if you cannot open**, try this: (thanks [@d0972058277](https://github.com/d0972058277) and [@ksmarty](https://github.com/ksmarty))
+  ```
+  cd Downloads/Open\ in\ VS\ Code.app/Contents/MacOS/
+  chmod +x droplet
+   ```
 - Hold `Option+CMD` and drag the application to toolbar
 - **Mojave users**: to disable the system warning "Allowing control will provide access to documents and data..." when using the app, [add the application in preferences -> security and privacy -> privacy -> accessibility](https://apple.stackexchange.com/a/335850)
 - Enjoy
